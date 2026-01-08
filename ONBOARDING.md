@@ -1,4 +1,4 @@
----
+ ---
 
 # 🧠 Babua DSA Patterns Course 2025 — Onboarding Sheet
 
@@ -24,8 +24,8 @@ This sheet is designed to help onboard new learners into the course.
 | 2   | 485.2 Max Consecutive Ones (Code)                      | [🎥 Watch Video](https://www.youtube.com/watch?v=2hzERLjR2_k&list=PLVItHqpXY_DB7iHw9Qc5CgCOrlkdDpy_u&index=2)  | Done      |
 | 3   | 1295.1 Find Number with Even Number of Digits (Theory) | [🎥 Watch Video](https://www.youtube.com/watch?v=c3XuLlIQ_fw&list=PLVItHqpXY_DB7iHw9Qc5CgCOrlkdDpy_u&index=3)  | Done      |
 | 4   | 1295.2 Find Number with Even Number of Digits (Code)   | [🎥 Watch Video](https://www.youtube.com/watch?v=fGowSrWq5QI&list=PLVItHqpXY_DB7iHw9Qc5CgCOrlkdDpy_u&index=4)  | Done      |
-| 5   | 724.1 Find Pivot Index (Theory)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=IV3AkceP37A&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin)          | ☐      |
-| 6   | 724.2 Find Pivot Index (Code)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=59gnJCkDzEc&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=2)  | ☐      |
+| 5   | 724.1 Find Pivot Index (Theory)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=IV3AkceP37A&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin)          | Done      |
+| 6   | 724.2 Find Pivot Index (Code)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=59gnJCkDzEc&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=2)  | Done      |
 | 7   | 118.1 Pascal's Triangle (Theory)                       | [🎥 Watch Video](https://www.youtube.com/watch?v=p6l9kw5Pv1I&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=7)  | ☐      |
 | 8   | 118.2 Pascal's Triangle (Code)                         | [🎥 Watch Video](https://www.youtube.com/watch?v=ELo7RR-Isjk&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=8)  | ☐      |
 | 9   | 344.1 Reverse String (Theory)                          | [🎥 Watch Video](https://www.youtube.com/watch?v=SfE6EOTy3As&list=PLVItHqpXY_DD8Vyz2eC-yem_Mbu4Peuin&index=9)  | ☐      |
